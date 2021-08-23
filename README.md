@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Js and Bootstrap
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin.com/in/kunal-parkar-6814b2207
 
 <!---
 Kun0311al/Kun0311al is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
