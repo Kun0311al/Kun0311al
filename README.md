@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kunalparkar1233@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Drd-BG-BfGNdIbKZkR_lSLyo6xjYQkvO/view?usp=sharing](https://drive.google.com/file/d/1GRp78yISnRIMoBOn14oRAeSG9YEMhzOq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GRp78yISnRIMoBOn14oRAeSG9YEMhzOq/view?usp=sharing](https://drive.google.com/file/d/1GRp78yISnRIMoBOn14oRAeSG9YEMhzOq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
