@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm kunal parkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++ in advance**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **C++, HTML, CSS**
 
 - 📫 How to reach me **kunalparkar1233@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cZtF8J-XxYAR2ZnXryIhqCRfsdlXhznr/view?usp=sharing)
+- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1cZtF8J-XxYAR2ZnXryIhqCRfsdlXhznr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
