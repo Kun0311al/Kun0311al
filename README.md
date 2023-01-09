@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kunal parkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **C++ in advance**
+- 🌱 I’m currently learning **C++ in advance and Data Structures & Algorithms**
 
 - 💬 Ask me about **HTML and CSS**
 
